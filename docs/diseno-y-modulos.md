@@ -74,6 +74,8 @@ erDiagram
         timestamp created_at
     }
 
+```
+---
     patients {
         uuid id PK
         uuid profile_id FK
