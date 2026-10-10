@@ -65,7 +65,7 @@ El proyecto será desarrollado y centralizado en un único repositorio de GitHub
 
 ## Estado del proyecto
 
-Primera entrega: propuesta de proyecto y repositorio.
+Segunda entrega: diseño de base de datos y módulos del sistema.
 
 ## Segunda entrega
 
