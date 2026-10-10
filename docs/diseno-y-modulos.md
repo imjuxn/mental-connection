@@ -45,7 +45,6 @@ Las tablas principales del sistema serán:
 | `audit_logs` | Auditorías | Registra acciones relevantes realizadas en el sistema, especialmente sobre datos sensibles. |
 
 ---
-
 ## 4. Diagrama entidad-relación
 
 ```mermaid
@@ -74,8 +73,6 @@ erDiagram
         timestamp created_at
     }
 
-```
----
     patients {
         uuid id PK
         uuid profile_id FK
@@ -149,6 +146,7 @@ erDiagram
         uuid record_id
         timestamp created_at
     }
+```
 
 
 ## 5. Descripción de tablas
