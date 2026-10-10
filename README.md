@@ -55,7 +55,9 @@ Esta integración permitirá conectar Mental Connection con una plataforma de pa
 
 En una primera versión, Mental Connection se enfocará en la gestión de usuarios, profesionales, pacientes, especialidades, disponibilidad horaria, turnos y pagos o señas mediante Mercado Pago.
 
-El sistema no incluirá en esta etapa historia clínica, diagnósticos médicos, recetas digitales ni atención de emergencias. Estas funcionalidades podrían considerarse como mejoras futuras, pero no forman parte del alcance inicial para mantener el proyecto viable dentro de los plazos de la asignatura.
+El sistema incluirá un registro clínico básico o registro de atenciones, asociado a pacientes, profesionales y turnos. Esta funcionalidad permitirá registrar información general de cada atención, como resumen, evolución y observaciones.
+
+No se incluirán en esta etapa diagnósticos médicos avanzados, recetas digitales ni atención de emergencias. Estas funcionalidades podrían considerarse como mejoras futuras, pero no forman parte del alcance inicial para mantener el proyecto viable dentro de los plazos de la asignatura.
 
 ## Repositorio
 
@@ -64,3 +66,10 @@ El proyecto será desarrollado y centralizado en un único repositorio de GitHub
 ## Estado del proyecto
 
 Primera entrega: propuesta de proyecto y repositorio.
+
+## Segunda entrega
+
+La segunda entrega incluye el diseño de módulos y el esquema inicial de base de datos.
+
+- [Diseño y módulos](docs/diseno-y-modulos.md)
+- [Esquema de base de datos](database/schema.sql)
