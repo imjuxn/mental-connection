@@ -7,7 +7,6 @@ El sistema permitirá administrar pacientes, profesionales, especialidades, disp
 ## Integrantes
 
 - Juan José Silva
-- Luca Arlettaz
 
 ## Tutor
 
